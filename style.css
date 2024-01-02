@@ -62,7 +62,7 @@ section{
 }
 .navbar a:hover,
 .navbar a:active{
-    color: var(--main-colorz);
+    color: var(--main-color);
 
 }
 
@@ -162,7 +162,7 @@ span{
     transition: .5s ease;
 }
 
-.btn :hover{
+.btn:hover {
     box-shadow: none;
 }
 
@@ -451,7 +451,7 @@ span{
     }
 
 
-    .navbar.active{
+    .navbar.active {
         display: block;
     }
 
